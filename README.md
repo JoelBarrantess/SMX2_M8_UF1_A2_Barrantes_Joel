@@ -4,14 +4,15 @@
    
    Una 
 
-2. Second item
+2. ¿Qué es un sitio web?
 
    DOS
 
-3. Third item
+3. ¿Qué es una aplicación web?
 
    Tres
 
-4. Third item
+4. ¿Qué es una herramienta ofimática?
 
-   awd
+   awdEs una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una
+presentación
