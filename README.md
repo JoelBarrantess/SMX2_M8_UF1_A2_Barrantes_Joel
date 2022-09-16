@@ -20,6 +20,6 @@ presentación
 5.	[Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/):
 
 | Syntax | Description |
-| ----------- | ----------- |
+| :----------- | :----------- |
 | Header | Title |
 | Paragraph | Text |
