@@ -14,5 +14,5 @@
 
 4. ¿Qué es una herramienta ofimática?
 
-   awdEs una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una
+   Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una
 presentación
